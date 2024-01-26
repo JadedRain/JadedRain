@@ -3,6 +3,7 @@
 **`Software Developer`**
 
 I'm currently a full-time college student developing my skills in the technical world to create things I can be proud of as I step into the future. All of my projects involve me designing, planning, researching, and developing to solve problems in the real world.
+---
 <!--
 **JadedRain/JadedRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
